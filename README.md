@@ -7,7 +7,7 @@ Speechify-friendly layout).
 
 ## Application Screenshot
 
-![StudyScribe Application](docs/your-screenshot.png)
+![StudyScribe Application](docs/screenshot.png)
 
 
 > **Current status — Phases 1 & 2 complete.**
