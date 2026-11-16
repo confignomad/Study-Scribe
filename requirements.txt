@@ -1,0 +1,12 @@
+# StudyScribe runtime dependencies (Phase 1)
+# Python 3.13+
+
+# GUI framework
+customtkinter>=5.2.2
+
+# YouTube playlist enumeration (Phase 3) + caption downloading (Phase 4)
+yt-dlp>=2024.1.0
+
+# Document export (Phase 8)
+python-docx>=1.1.0    # DOCX export
+reportlab>=4.0.0      # PDF export
