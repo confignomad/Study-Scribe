@@ -5,6 +5,11 @@ from YouTube videos and playlists, organizes them into Markdown files, and
 exports them into study-friendly formats (PDF, DOCX, TXT, HTML, and a
 Speechify-friendly layout).
 
+## Application Screenshot
+
+![StudyScribe Application](docs/your-screenshot.png)
+
+
 > **Current status — Phases 1 & 2 complete.**
 > The dark-themed [CustomTkinter](https://customtkinter.tomschimansky.com/) shell
 > is built (Phase 1), and **Start** now validates a single YouTube video URL and
